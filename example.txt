@@ -1,3 +1,5 @@
 This is a text file named example.txt
 
 New line added after creating the file from scratch
+
+Creating another line but this time within GitHub. Will pull changes using Git.
